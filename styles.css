@@ -16,11 +16,11 @@ nav a {
   margin: 0 20px;
   text-decoration: none;
   color: hotpink;
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 .hero {
-  padding: 20px 5px;
+  padding: 5px;
 }
 
 .logo {
