@@ -75,7 +75,7 @@ body::before {
   position: fixed;
   top: 0; left: 0;
   width: 100%; height: 100%;
-  background-image: url('assets/highkey-pattern-zoomed.png'); /* update with your actual file path */
+  background-image: url('assets/highkey-pattern-zoomed.png');
   background-repeat: repeat;
   background-size: 100px; /* smaller logos */
   opacity: 0.08;
