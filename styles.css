@@ -19,16 +19,6 @@ nav a {
   font-size: 2.5em;
 }
 
-.hero {
-  padding: 50px 20px;
-}
-
-.logo {
-  width: 300px;
-  height: auto;
-  margin-bottom: 20px;
-}
-
 .hero h1 {
   font-size: 2.5em;
   background: linear-gradient(to right, hotpink, deepskyblue);
