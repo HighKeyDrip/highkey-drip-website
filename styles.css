@@ -25,12 +25,11 @@ nav a {
 
 .logo {
   width: 550px;
-  max-width: 100%;
   height: auto;;
 }
 
 .hero h1 {
-  font-size: 4em;
+  font-size: 3em;
   background: linear-gradient(to right, hotpink, deepskyblue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
