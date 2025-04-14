@@ -24,7 +24,7 @@ nav a {
 }
 
 .logo {
-  width: 550px;
+  width: 700px;
   height: auto;;
 }
 
@@ -33,7 +33,7 @@ nav a {
   background: linear-gradient(to right, hotpink, deepskyblue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .shop-button {
