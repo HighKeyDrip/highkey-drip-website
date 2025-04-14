@@ -34,7 +34,7 @@ nav a {
   background-repeat: repeat;
   background-position: center;
   height: 100vh;
-  display: flex;
+  display: fixed;
   justify-content: center;
   align-items: center;
   text-align: center;
