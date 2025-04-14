@@ -33,7 +33,7 @@ nav a {
   background: linear-gradient(to right, hotpink, deepskyblue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin: 10px 0;
+  margin: 5px 0;
 }
 
 .shop-button {
