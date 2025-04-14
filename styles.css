@@ -31,10 +31,11 @@ nav a {
   position: relative;
   background-image: url('assets/highkey-pattern-zoomed.png'); /* Replace with actual file path */
   background-size: cover;
+  background-attachment: fixed;
   background-repeat: repeat;
   background-position: center;
   height: 100vh;
-  display: fixed;
+  display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -45,7 +46,7 @@ nav a {
 .overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0, 100, 90, 0.6); /* Adjust for brightness */
+  background: rgba(0, 0, 0, 0.6); /* Adjust for brightness */
   z-index: 1;
 }
 
