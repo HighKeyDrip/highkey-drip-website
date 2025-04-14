@@ -24,7 +24,8 @@ nav a {
 }
 
 .logo {
-  width: 300px;
+  width: 400px;
+  height: auto;
   margin-bottom: 20px;
 }
 
